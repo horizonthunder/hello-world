@@ -1,5 +1,5 @@
 # hello-world
-I think its obvious
+I think it's obvious what this project is about
 
 Git is how we say Get in the south.
 * Hey boy, git your dog outa my yard
